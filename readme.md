@@ -1,3 +1,36 @@
+Funciones añadidas:
+GESTOR DE MENSAJERÍA
+Creado ficheros para:
+MODELO de mensaje (remitente, destinatario, contenido del mensaje, fecha, referencia a otro mensaje)
+RUTA de mensaje
+CONTROLADOR de mensaje
+SERVICIOS de mensaje
+
+BACK-END:
+Creado ficheros para:
+MODELO de mensaje 
+RUTA de mensaje utilizada
+CRUD completo
+PAGINACIÓN
+BUSCADOR
+
+Todos los ficheros necesarios creados y añadidos pero por algún motivo que desconozco swagger no detectaba las rutas. Seguro que me falta alguna línea que se me ha pasado por alto.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Api proyecto EA
 
 ## Organización carpetas del proyecto
